@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.img-fluid{
+    height: 720px;
+    width: 1080px;
+}
+
+.carousel{
+    font-size: 22px;
+}
